@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Thank you for giving out useful suggestions on this! It will be proceeded soon. "
-        pr-message: "Message that will be displayed on users' first pull request"
+        pr-message: "Thank you for giving out useful suggestions on this! It will be proceeded soon."
