@@ -11,3 +11,5 @@ Enjoy!
 1. The custom robots icons: [MVM Class Icons V1](https://tf2maps.net/threads/mvm-class-icons.27848/)  Please follow its instruction carefully.
 ### Issue
 If you've found the following issue: Unbalanced Robots Arrangement, Incorrect Displayed Icon or anything else, feel free to leave it in the Issue.
+
+**Note: Generally all URA issues regarding Wave 6 will be ignored.**
