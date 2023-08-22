@@ -7,8 +7,8 @@ The run the game, type `map mvm_rottenburg` in the console. When you're managed 
 Enjoy!
 ### Explanation of Each Wave
 🤔
-### Madatory Configuration
-1. The custom robots icons: [MVM Class Icons V1](https://tf2maps.net/threads/mvm-class-icons.27848/)  Please follow its instruction carefully.
+### Mandatory Configuration
+1. The custom robots icons: [MVM Class Icons V1](https://tf2maps.net/threads/mvm-class-icons.27848/) .Please follow its instruction carefully.
 ### Issue
 If you've found the following issue: Unbalanced Robots Arrangement, Incorrect Displayed Icon or anything else, feel free to leave it in the Issue.
 
