@@ -5,7 +5,7 @@ Greeting, this repository is made for self-made mission.
 Download this file, and put it into the `tf/scripts/population` (If you've not got one, then create one).
 The run the game, type `map mvm_rottenburg` in the console. When you're managed to get into the map, enter `tf_mvm_popfile idle`.  
 Enjoy!
-### Explanation of Each Wave
+### Explaination of Each Wave
 🤔
 ### Mandatory Configuration
 1. The custom robots icons: [MVM Class Icons V1](https://tf2maps.net/threads/mvm-class-icons.27848/) .Please follow its instruction carefully.
